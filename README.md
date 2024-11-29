@@ -1,3 +1,6 @@
+
+# Project Title
+
 Weather App 🌤️
 A simple and elegant weather application built with Vite and styled using Tailwind CSS. The app allows users to view real-time weather information for any city around the globe.
 
